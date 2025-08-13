@@ -1,0 +1,8 @@
+2025-08-13 18:30:00 INFO: User 'alex' logged in successfully.
+2025-08-13 18:31:15 INFO: User 'alex' viewed the dashboard.
+2025-08-13 18:32:05 WARNING: API response time is slow (550ms).
+2025-08-13 18:33:10 ERROR: Failed to connect to database 'db_primary'.
+2025-08-13 18:33:15 INFO: User 'maria' logged in successfully.
+2025-08-13 18:34:00 WARNING: Disk space is nearing capacity (89%).
+2025-08-13 18:35:00 ERROR: Transaction 'TX12345' failed.
+2025-08-13 18:35:02 ERROR: NullPointerException at user_service.py:112
