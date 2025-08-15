@@ -1,0 +1,5 @@
+product_id,product_name,price,quantity_sold
+P001,Laptop,1200.00,5
+P002,Mouse,25.50,50
+P003,Keyboard,75.00,30
+P004,Monitor,300.75,15
