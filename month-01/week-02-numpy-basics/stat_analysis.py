@@ -11,5 +11,18 @@ print("Original Experiment Data:")
 print(experiment_data)
 print("-" * 25)
 
-sum = experiment_data.sum()
-print(sum)
+print(f"""1. Overall Sum:
+{experiment_data.sum()}
+""")
+
+print(f"""2. Overall Average:
+{experiment_data.mean()}
+""")
+
+print(f"""3. Sum of each Column:
+{experiment_data.sum(axis=0)}
+""")
+
+print(f"""4. Maximum value of each Row:
+{experiment_data.max(axis=1)}
+""")
